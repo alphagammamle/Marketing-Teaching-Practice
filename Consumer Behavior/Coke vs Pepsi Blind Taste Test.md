@@ -1,36 +1,3 @@
----
-id: coke-vs-pepsi-blind-taste-test
-title: Coke vs Pepsi Blind Taste Test
-version: v1.0.0
-authors: ["Contributor"]
-created: 2025-10-25
-updated: 2025-10-25
-category: consumer-behavior
-tags: ["perception", "brand-equity", "consumer-behavior", "taste-test"]
-audience: UG
-level: intro
-duration_minutes: 60
-class_size: "15–100"
-materials:
-  - Two unlabelled cola drinks (e.g., Coca-Cola and Pepsi)
-  - Small paper or plastic tasting cups (one per sample per student)
-  - Water for palate cleansing
-  - Labels and markers for A/B coding
-  - Napkins or tissues
-  - Recording sheet or spreadsheet for collecting guesses
-learning_objectives:
-  - Identify how perception and brand cues influence consumer choice
-  - Differentiate between brand attitude and sensory preference
-  - Link the results to brand equity and expectancy effects
-theory_mapping:
-  - Perception bias
-  - Brand equity (Keller)
-  - Expectancy–value theory
-assessment: Reflection paragraph or discussion on how brand expectations shape experience
-room_setup: Desks arranged in groups of 4–6 with tasting space; central pouring station coded “A” and “B”
-facilitation_tips: Randomize order of samples across groups; keep labels hidden; debrief thoroughly
----
-
 ## Overview
 
 The Coke vs Pepsi Blind Taste Test demonstrates how perception and branding influence sensory judgment.  
